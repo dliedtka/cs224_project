@@ -1,0 +1,68 @@
+exact = 3.191839420862126
+f1 = 6.221891162103323
+null_score_diff_threshold = 0.0
+total = 6078
+saved ./real_output/model.ckpt-0.meta to ./real_output/model.ckpt-best.meta
+saved ./real_output/model.ckpt-0.data-00000-of-00001 to ./real_output/model.ckpt-best.data-00000-of-00001
+saved ./real_output/model.ckpt-0.index to ./real_output/model.ckpt-best.index
+best f1 = 6.221891162103323
+==================================================
+exact = 73.52747614346825
+f1 = 76.67159625754941
+null_score_diff_threshold = -0.3649117052555084
+total = 6078
+saved ./real_output/model.ckpt-1000.meta to ./real_output/model.ckpt-best.meta
+saved ./real_output/model.ckpt-1000.data-00000-of-00001 to ./real_output/model.ckpt-best.data-00000-of-00001
+saved ./real_output/model.ckpt-1000.index to ./real_output/model.ckpt-best.index
+best f1 = 76.67159625754941
+==================================================
+exact = 77.11418229680817
+f1 = 79.89522692736114
+null_score_diff_threshold = -0.44749927520751953
+total = 6078
+saved ./real_output/model.ckpt-2000.meta to ./real_output/model.ckpt-best.meta
+saved ./real_output/model.ckpt-2000.data-00000-of-00001 to ./real_output/model.ckpt-best.data-00000-of-00001
+saved ./real_output/model.ckpt-2000.index to ./real_output/model.ckpt-best.index
+best f1 = 79.89522692736114
+==================================================
+exact = 78.47976307996052
+f1 = 81.34515833794848
+null_score_diff_threshold = -0.5508992075920105
+total = 6078
+saved ./real_output/model.ckpt-3000.meta to ./real_output/model.ckpt-best.meta
+saved ./real_output/model.ckpt-3000.data-00000-of-00001 to ./real_output/model.ckpt-best.data-00000-of-00001
+saved ./real_output/model.ckpt-3000.index to ./real_output/model.ckpt-best.index
+best f1 = 81.34515833794848
+==================================================
+exact = 79.54919381375453
+f1 = 82.01800791319398
+null_score_diff_threshold = -1.5310673713684082
+total = 6078
+saved ./real_output/model.ckpt-4000.meta to ./real_output/model.ckpt-best.meta
+saved ./real_output/model.ckpt-4000.data-00000-of-00001 to ./real_output/model.ckpt-best.data-00000-of-00001
+saved ./real_output/model.ckpt-4000.index to ./real_output/model.ckpt-best.index
+best f1 = 82.01800791319398
+==================================================
+exact = 79.64791049687398
+f1 = 82.15719299424474
+null_score_diff_threshold = -1.5541799068450928
+total = 6078
+saved ./real_output/model.ckpt-5000.meta to ./real_output/model.ckpt-best.meta
+saved ./real_output/model.ckpt-5000.data-00000-of-00001 to ./real_output/model.ckpt-best.data-00000-of-00001
+saved ./real_output/model.ckpt-5000.index to ./real_output/model.ckpt-best.index
+best f1 = 82.15719299424474
+==================================================
+exact = 80.02632444883186
+f1 = 82.67968430714338
+null_score_diff_threshold = -1.2455109357833862
+total = 6078
+saved ./real_output/model.ckpt-5429.meta to ./real_output/model.ckpt-best.meta
+saved ./real_output/model.ckpt-5429.data-00000-of-00001 to ./real_output/model.ckpt-best.data-00000-of-00001
+saved ./real_output/model.ckpt-5429.index to ./real_output/model.ckpt-best.index
+best f1 = 82.67968430714338
+==================================================
+exact = 80.02632444883186
+f1 = 82.67968430714338
+null_score_diff_threshold = -1.2455109357833862
+total = 6078
+best perf happened at step: 5429
